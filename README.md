@@ -14,7 +14,8 @@
 
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:guptakhushi345@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushboogupta13/)
-[![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://.github.io](https://khushboogupta13.github.io/)
+[![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://khushboogupta13.github.io/) 
+ 
 
 ---
 

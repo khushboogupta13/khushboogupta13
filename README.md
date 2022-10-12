@@ -42,11 +42,9 @@ export default Profile;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?&logo=javascript)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
-
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)

@@ -1,4 +1,4 @@
-<h1 align="center">Greetings!!! I'm Maurício Taffarel 🇧🇷</h1>
+<h1 align="center">Hello! I'm Khushboo Gupta🇷</h1>
 
 <div>
 
@@ -12,9 +12,9 @@
 
 <center>
 
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/oG66zHuS)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciotaffarel)
-[![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://taffarel55.github.io)
+[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:guptakhushi345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushboogupta13/)
+[![Site](https://img.shields.io/badge/site-10B420.svg?style=for-the-badge&logo=github)](https://.github.io](https://khushboogupta13.github.io/)
 
 ---
 
@@ -28,7 +28,7 @@ import React from "react";
 const Profile = () => {
   return {
       name: "Khushboo",
-      
+      experience: ["Machine Learning", "Natural Language Processing", "Frontend Development"]
       interests: ["Tech", "Anime", "Music"],
   }
 };
@@ -53,14 +53,4 @@ export default Profile;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=MATLAB)
-
-<!--
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
--->
-
-<!--
-### Recent Github Activity :timer_clock:
-
-START_SECTION:activity-->
-
 

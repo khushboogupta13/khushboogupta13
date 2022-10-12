@@ -4,7 +4,7 @@
 
 <img align='right' height='160' src='assets/programming.svg'>
 
-- :mortar_board: Computer Science student at Indian Institute of Technology, Goa
+- :mortar_board: Final year Computer Science student at Indian Institute of Technology, Goa
 - :blue_book: Passionate about learning new technologies and problem solving!
 - :mailbox: You can reach me with the links below:
 

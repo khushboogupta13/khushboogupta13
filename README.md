@@ -2,7 +2,7 @@
 
 <div>
 
-
+<img align='right' height='160' src='assets/programming.svg'>
 
 - :mortar_board: Computer Science student at Indian Institute of Technology, Goa
 - :blue_book: Passionate about learning new technologies and problem solving!

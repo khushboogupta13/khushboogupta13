@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Khushboo Gupta🇷</h1>
+<h1 align="center">Hello! I'm Khushboo Gupta</h1>
 
 <div>
 

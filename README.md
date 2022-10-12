@@ -19,8 +19,6 @@
 
 </center>
 
-<img align='left' height='220' style="margin-right:20px" src='assets/firmware.svg'>
-
 ```tsx
 import React from "react";
 

@@ -4,9 +4,9 @@
 
 <img align='right' height='160' src='assets/programming.svg'>
 
-- :mortar_board: Final year Computer Science student at Indian Institute of Technology, Goa
-- :blue_book: Passionate about learning new technologies and problem solving!
-- :mailbox: You can reach me with the links below:
+- :mortar_board: Computer Science undergraduate from Indian Institute of Technology, Goa
+- :blue_book: Passionate about learning new technologies, especially related to frontend development!
+- :mailbox: I am open to any freelancing and internship opportunities in frontend development and technical writing:
 
 <center>
 
